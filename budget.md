@@ -1,6 +1,8 @@
 If possible use grant money for this stuff as well
-mecanum wheels which have insane sale for some reason
-https://www.aliexpress.com/item/1005007408718710.html
+mecanum wheels
+https://www.aliexpress.com/item/4000128246258.html
+80mm with 6mm hubs
+
 just get another 7 of these
 https://www.aliexpress.com/item/1005009003269281.html
 
