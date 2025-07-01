@@ -42,3 +42,11 @@ From here, I've been Cadding out stuff since this morning, at it's 6pm, so I'm g
 
 
 **Total Time Spent 6h**
+
+
+# June 30th:
+
+Ok, so now that I have the top section in, I'm going to start building the intake. To start, I created an inramp that leads to the top of the frame.
+
+
+<img src='./JOURNAL_IMG/CAD_inramp.png' width='500'>
