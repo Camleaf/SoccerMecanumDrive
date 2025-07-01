@@ -50,3 +50,19 @@ Ok, so now that I have the top section in, I'm going to start building the intak
 
 
 <img src='./JOURNAL_IMG/CAD_inramp.png' width='500'>
+
+
+**Total time spent: 3h**
+
+# June 31th:
+I spent a couple hours improving the intake, and it looks like it could work, however to deal with the size of the balls, it is about half the size of the robot, which I don't like.
+<img src='./JOURNAL_IMG/CAD intake.png' width='500'>
+
+Becayse I didn't like how bulky this bot was getting, (which is a big problem seeing as I have a 40cm by 40cm size limit), so time to iterate and rebuild the base to maximize space efficiency.
+
+
+<img src='./JOURNAL_IMG/CAD drivetrainV2.png' width='500'>
+
+This one has almost two and a half times the open floor area of the old one, hopefully allowing me to fit all my circuitry for the drivetrain on this one section. It does come at the cost of some structural integrity, however I believe I could fix this by using a top plate as an attacher between the seperated parts.
+
+**Total time spent: 5h**
